@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="icon.rc">C:/Qt/Project/LarvaConnector/icon.rc</file>
+</qresource>
+</RCC>
